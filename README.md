@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Stenfar SAIC<br>👯 I'm looking for to improve my skills with good practices to be better everyday<br>🌱 I’m currently learning testing with Jest<br>⚡ In my first interview I couldn't resolve anything<br><br>Don't worry if you didn't go well. If you work hard, you'll always have opportunities
+🔭 I’m currently working on Stenfar SAIC<br>👯 I'm looking for to improve my skills with good practices to be better everyday<br>🌱 I’m currently learning testing with Jest<br>⚡ In my first interview I couldn't resolve anything hahaha<br><br>Don't worry if you didn't go well. If you work hard, you'll always have opportunities
 
 
 ## 🌐 Socials:
